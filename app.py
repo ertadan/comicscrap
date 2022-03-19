@@ -31,7 +31,6 @@ headers = {
 
 
 def savePDF(fileList):
-    filelist = fileList.reverse()
     pdf = FPDF()
     for image in fileList:
         pdf.add_page()
@@ -82,6 +81,8 @@ def get_data(url):
         link = getImgLink(address)
         imagelist.append(download_img(page, url[:url.find('ru') + 2] + link))
         sleep(random.randrange(2, 5))
+    #revert order to make correct pdf
+    imagelist.reverse()
     # savePDF(imagelist)
     print('Done')
 
