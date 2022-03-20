@@ -11,6 +11,8 @@ THANK YOU VERY MUCH SIR!
 
 # *PLEASE WRITE YOUR REPLY HERE ILL ABLE TO SEE IT!*
 
+
+
 `pip3 install lxml bs4 requests fpdf`
 
 _TODO_: fix pdf creation function in order to create pdf with actual image size
