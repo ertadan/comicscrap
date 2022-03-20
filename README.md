@@ -8,6 +8,7 @@ Console script for saving comic from [author's comic website](https://acomics.ru
 
 - HEY WE ARE DOING GITHUB EXPERIMENT!!!!!
 - UKRAINE IS BEST !!!
+-NEW FEATURE!!!
 
 `pip3 install lxml bs4 requests fpdf`
 
