@@ -2,7 +2,6 @@
 
 Console script for saving comic from [author's comic website](https://acomics.ru/)
 
-## Prerequisities:
 
 # GREETING
 -Thanks Alex for your time and energy,we know you been into a war
@@ -12,6 +11,15 @@ THANK YOU VERY MUCH SIR!
 # *PLEASE WRITE YOUR REPLY HERE ILL ABLE TO SEE IT!*
 
 
+=======
+# PRANIT-ALEX
+
+- HEY WE ARE DOING GITHUB EXPERIMENT!!!!!
+- UKRAINE IS BEST !!!
+-NEW FEATURE!!!
+
+
+## Prerequisities:
 
 `pip3 install lxml bs4 requests fpdf`
 
